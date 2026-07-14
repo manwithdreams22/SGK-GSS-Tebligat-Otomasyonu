@@ -26,7 +26,8 @@ Bu script herhangi bir sunucu kurulumu gerektirmez doğrudan istemci (tarayıcı
 2. Klavyenizden `F12` tuşuna basarak (veya Sağ Tık -> İncele diyerek) **Geliştirici Araçları (DevTools)** menüsünü açın.
 3. **Console (Konsol)** sekmesine geçin.
 4. Bu depodaki JavaScript kodunun tamamını kopyalayıp konsola yapıştırın ve `Enter` tuşuna basın.
-5. Sağ üst köşede "GSS Tebligat Otomasyonu" paneli belirecektir. İşlem otomatik olarak başlar.
+5. kodda bulunan const akisNode = await waitFor("#inboxItemInfoForm\\:evrakBilgileriList\\:22\\:akisLov\\:lovTree\\:0", 5000); bu bölümü :lovTree//:0 0 yerine kullandığınız imza akışını tanımlayınız yani 3. imza akışını kullanıyorsanız 2 yazacaksınız yazılım index kuralları gereği 1. sıra yazılım da 0 olarak başlar yani 3. akışı kullanmak istiyorsanız 0 bölümünü 2 olarak güncelleyeceksiniz. ve program S-İMZA kullananlar için geliştirilmiştir. E-İMZA da sorun yaşayabilirsiniz. istek üzerine E-İMZA seçeneği eklenebilir fakat stabilite tehlikeye girebilir.
+6. Sağ üst köşede "GSS Tebligat Otomasyonu" paneli belirecektir. İşlem otomatik olarak başlar.
 
 ## Arayüz (Dashboard) Tanıtımı
 
