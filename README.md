@@ -1,4 +1,4 @@
-# GSS Tebligat Otomasyonu 
+# SGK GSS(Genel Sağlık Servisi) Tebligat Otomasyonu 
 
 Bu proje, Elektronik Belge Yönetim Sistemleri (EBYS) veya ilgili kurum portalları (özellikle GSS tebligat işlemleri) üzerinde rutin evrak doldurma, onaylama ve imzalama süreçlerini otomatize etmek için geliştirilmiş tarayıcı tabanlı bir JavaScript otomasyonudur. 
 
